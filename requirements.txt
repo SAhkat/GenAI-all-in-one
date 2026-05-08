@@ -1,0 +1,33 @@
+#environment variable
+python-dotenv
+
+# machine learning utilities
+numpy
+scikit-learn
+
+# hugging face dintegration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# langchain core
+langchain
+langchain-core
+
+# oprnai integration
+langchain-openai
+oprenai
+
+# antropic integration
+langchain-anthropic
+
+# google gemini
+langchain-google-genai
+google-generativeai
+
+
+torch
+transformers
+Pillow
+gradio
+timm
